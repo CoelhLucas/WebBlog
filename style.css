@@ -1,0 +1,19 @@
+/* body{
+    /* background-color: lightblue; */
+  /* } */
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+  }
+#controles{
+    margin: auto;
+    margin-top: 10%;
+    width: 12%;
+    border: 3px solid green;
+    padding: 10px;
+}
+#controles textarea {
+    flex: 70%;
+  }
+  
